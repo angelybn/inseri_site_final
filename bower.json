@@ -1,0 +1,20 @@
+{
+  "name": "inseri_site_final",
+  "homepage": "https://github.com/angelybn/inseri_site_final",
+  "authors": [
+    "angely.bernardo <angelybernardo95@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
